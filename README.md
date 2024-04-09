@@ -1,3 +1,5 @@
+![alt text](https://github.com/lukyg/Customer_Churn_Classification/blob/master/Customer_Churn.png?raw=true)
+sumber gambar :https://www.touchpoint.com/blog/what-is-customer-churn/
 # Clasification Customer Churn
 
 Perkembangan industri telekomunikasi yang pesat mempengaruhi perilaku masyarakat dalam menggunakan internet untuk berkomunikasi. Sehingga menyebabkan banyaknya perusahaan telekomunikasi dan meningkatnya service provider yang menimbulkan persaingan antar provider. Di sisi lain pengguna memiliki hak dalam memilih provider yang sesuai dan beralih dari provider sebelumnya yang diartikan sebagai Customer Churn. Peralihan ini menyebabkan berkurangnya pendapatan perusahaan telekomunikasi sehingga perlu ditangani. Dengan demikian, untuk mengatasi permasalahan tersebut dibuat sistem yang melakukan prediksi costumer churn agar dapat memetakan strategi bisnis untuk mempertahankan pelanggan.
